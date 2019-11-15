@@ -1,8 +1,8 @@
 {
   "name": "react-mobile-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react component that will only display its children on mobile resolutions",
-  "main": "react-mobile-only.jsx",
+  "main": "react-mobile-only.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
