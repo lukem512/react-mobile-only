@@ -23,6 +23,10 @@ const AppBanner = (props) => (
 
 By default, the component will display for screen resolutions below 768px. By passing a `mobileSize` prop to the component, or by setting `theme.mobileSize` in the [styled-components](https://www.styled-components.com/docs/advanced#theming) theme.
 
+## Related
+
+See [react-desktop-only](https://github.com/lukem512/react-desktop-only)
+
 ## License
 
 MIT
