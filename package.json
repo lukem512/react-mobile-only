@@ -1,6 +1,6 @@
 {
   "name": "react-mobile-only",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react component that will only display its children on mobile resolutions",
   "main": "build/index.js",
   "scripts": {
