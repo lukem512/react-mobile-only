@@ -1,4 +1,6 @@
 # react-mobile-only
+[![npm](https://img.shields.io/npm/l/react-mobile-only)](https://www.npmjs.com/package/react-mobile-only) [![npm](https://img.shields.io/npm/v/react-mobile-only)](https://www.npmjs.com/package/react-mobile-only) [![npm](https://img.shields.io/npm/dm/react-mobile-only)](https://www.npmjs.com/package/react-mobile-only)
+
 A react component that will only display its children on mobile resolutions.
 
 ## Installation
